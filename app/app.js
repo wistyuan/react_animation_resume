@@ -13,7 +13,7 @@ class ReactClass extends React.Component {
 		};
 		this.interval = 40;
 		this.resumeEditorContent = `
-# 张雨晨
+# 黄志远 
 
 
 ## 项目及实习经历
