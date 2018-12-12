@@ -61,7 +61,7 @@ cet-6 (525)
 		this.styleEditorContent = [`/*
 * Inspired by http://strml.net/
 * 
-* Hello, 我是张雨晨
+* 你好, 我是黄志远
 *
 * 我用 React 做了一份简易的动态简历
 * 希望大家能够喜欢 :)
@@ -86,7 +86,7 @@ html {
   overflow: auto;
   width: 45vw; height: 90vh;
 }
-/* 作为一个程序员，我们不可以太沉闷哦~~，给自己的代码加一点色彩吧 */
+/* 给自己的代码加一点色彩吧 */
 .token.comment{ color: #857F6B; font-style: italic; }
 .token.selector{ color: #E86E75; }
 .token.property{ color: #F78C6C; }
